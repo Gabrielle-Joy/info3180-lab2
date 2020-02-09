@@ -27,8 +27,21 @@ div#all-top p {
     margin: 5px;
 }
 
-div.card-body p {
+div.card-body {
     color: grey;
+    text-align: center;
+}
+
+div.row {
+    margin: 10px;
+}
+
+div.row div.col {
+    padding: 0px;
+}
+
+div.card-body a {
+    margin: 10px;
 }
 
 
